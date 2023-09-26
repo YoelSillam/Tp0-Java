@@ -1,0 +1,8 @@
+.cmdContacts:focused
+{
+    -fx-background-color: #07c073;
+}
+
+.vbContacts:hover{
+    -fx-background-color: lightBlue;
+}
